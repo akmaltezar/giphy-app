@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import GiphyLogo from "./assets/giphy-logo.png";
 import Giphy from "./components/Giphy";
 
