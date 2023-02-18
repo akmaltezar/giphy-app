@@ -1,0 +1,39 @@
+.main {
+  padding: 35px;
+}
+.title-bar {
+  display: flex;
+  justify-content: center;
+}
+.welcome {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+}
+.title {
+  text-transform: uppercase;
+}
+.giphy-logo {
+  width: 50%;
+}
+.btn {
+  text-transform: uppercase;
+}
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #219ebc;
+  padding: 10px 16px;
+}
+.search-bar input {
+  font-size: 16px;
+  padding: 3.5px;
+  border: none;
+  outline: none;
+}
+
+.search-bar button {
+  padding: 5px;
+  border: none;
+}
